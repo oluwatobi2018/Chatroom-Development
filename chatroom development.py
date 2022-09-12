@@ -301,5 +301,3 @@ if __name__ == '__main__':
 	app.exec_()
 	me = os.getpid()
 	sys.exit(kill_proc_tree(me))
-Footer
-© 2022 GitHub, Inc.
